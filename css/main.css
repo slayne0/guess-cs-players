@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    background-color: #027373;
+    text-align: center;
+}
+
+h1 {
+    font-size: 56px;
+}
+
+span {
+    font-size: 16px;
+}
+
+.input-search {
+    margin-top: 200px;
+}
+
+input {
+    width: 600px;
+    height: 48px;
+    border-radius: 16px;
+    text-indent: 24px;
+    font-size: 24px;
+}
